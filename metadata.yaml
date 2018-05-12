@@ -1,0 +1,35 @@
+_repo: M-moires-d-une-contemporaine.-Tome-7--13-Souvenirs-d-une-femme-sur-les-principaux-personnages__29755
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saint-Elme, Ida
+    aliases:
+    - St-Elme, Ida
+    - Aylde Jonghe, Elzélina van
+    - Jonghe, Elzélina van Aylde
+    - Tolstoy van Aylde-Jonghe, Elzélina
+    - Van Aylde Jonghe, Elzélina
+    - Jonghe, Elzelina van Aylde
+    birthdate: 1778
+    deathdate: 1845
+    gutenberg_agent_id: '33295'
+    url: http://www.gutenberg.org/2009/agents/33295
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2009-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29755'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- 1789-1815'
+- !lcc 'DC'
+title: "Mémoires d'une contemporaine. Tome 7\r\nSouvenirs d'une femme sur les principaux\
+  \ personnages de la République, du Consulat, de l'Empire, etc..."
+url: http://www.gutenberg.org/ebooks/29755
